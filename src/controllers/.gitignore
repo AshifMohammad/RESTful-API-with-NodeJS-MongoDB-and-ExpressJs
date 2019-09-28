@@ -1,0 +1,9 @@
+node_modules
+ Misc
+!demo.css
+*.tgz
+applications/*/build*
+*.pdf
+*.xlsx
+*.xml
+yarn.lock
